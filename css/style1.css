@@ -1,0 +1,58 @@
+
+
+#title{
+  background-color: #1597E5;
+}
+
+.navbar-brand{
+  padding-left: 15%;
+  font-size: 45px;
+}
+
+
+.nav-item{
+  padding-left: 55px;
+
+}
+
+.btn{
+  background-color: #fff;
+  margin-left: 55px;
+}
+
+.about-title{
+  color: #fff;
+  text-align: center;
+
+}
+
+
+h1{
+  font-style: italic;
+}
+
+.vision-cont{
+
+  background-color: skyblue;
+  text-align: center;
+}
+
+img{
+  width: 70px;;
+  height: 85px;
+
+}
+h4{
+text-align: left;
+}
+
+.product-cont{
+  text-align: center;
+  background-color: skyblue;
+  color: #fff;
+}
+
+#footer{
+  text-align: center;
+  background-color: #1597E5;
+}
